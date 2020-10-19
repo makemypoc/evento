@@ -1,13 +1,16 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+evento/__pycache__/
 *.py[cod]
 *$py.class
+*.mp4
 
 # C extensions
 *.so
 
 # Distribution / packaging
+models/ppyolo/
 .Python
+bin/
 build/
 develop-eggs/
 dist/

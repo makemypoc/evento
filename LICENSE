@@ -1,0 +1,19 @@
+This work is based on the following licenses.
+ 
+ SPDX-License-Identifier: Apache-2.0 AND Apache-2.0 with Commons Clause
+ 
+The following modules licensed under the Apache License, Version 2.0.
+
+1. paddle_detect.py
+2. visualize.py
+
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+
+The following modules licensed under the Apache License, Version 2.0 with Commons Clause
+
+1. app_server.py
+2. event_alert.py
+3. ui_server.py
+
+You may obtain a copy of the License at https://commonsclause.com/ and http://www.apache.org/licenses/LICENSE-2.0
