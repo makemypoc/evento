@@ -6,6 +6,9 @@ This Utility helps in identifying and alerting events of interests in real-time.
 
 This Utility uses the PaddlePaddle Object detection, Streamlit framework, and Redis in-memory database to accomplish these use cases. As of now, PP-Yolo is the object detection model.
 
+* Detailed article - https://medium.com/@monifooz/evento-is-the-ai-system-a-magic-wand-3523ae2e5344
+* Youtube Video - https://www.youtube.com/watch?v=oPvlByQpre4
+
 ### Prerequisites
 
 * Python version is 3.6.9.  
